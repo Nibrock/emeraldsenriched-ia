@@ -1,0 +1,21 @@
+Emeralds Enriched
+An ItemsAdder Add-On Made by Nibrock
+https://github.com/Nibrock
+https://www.spigotmc.org/members/nibrock.974029/
+https://www.planetminecraft.com/member/nibrock/
+
+INSTALLATION
+1) Drag and Drop the items_packs, and resource_pack folders into your plugins/ItemsAdder/data folder.
+2) Run /iazip to load the custom items.
+3) Set up permissions (see below)
+
+PERMISSIONS
+Crafting/Repairing Armor: ia.user.craft.nibrock.ee.armor
+Crafting/Repairing Tools: ia.user.craft.nibrock.ee.tools
+
+Hope you enjoy!
+
+
+
+Original Textures created by Mojang
+Nibrock has no affiliation with Microsoft, Mojang, or Minecraft.
